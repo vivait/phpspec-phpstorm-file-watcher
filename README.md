@@ -1,0 +1,2 @@
+phpspec-phpstorm-file-watcher
+=============================
