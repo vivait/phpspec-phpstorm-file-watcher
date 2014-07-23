@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TaskOptions>
   <TaskOptions>
-    <option name="arguments" value="run $FilePath$ -v --format=pretty" />
+    <option name="arguments" value="run $FilePath$ -v --format=pretty --ansi" />
     <option name="checkSyntaxErrors" value="true" />
     <option name="description" value="Runs the PHPSpec test every time a PHPSpec test or its associated file is saved" />
     <option name="exitCodeBehavior" value="ERROR" />
